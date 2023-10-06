@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "productName": "iphonr",
+      "productquantity": "images",
+      "productPrice": 1020
+    },
+    {
+      "productName": "qw",
+      "productquantity": 1,
+      "productPrice": 122,
+      "id": 1
+    },
+    {
+      "productName": "",
+      "productquantity": "",
+      "productPrice": "",
+      "id": 2
+    },
+    {
+      "productName": "asd",
+      "productquantity": 1,
+      "productPrice": 132,
+      "id": 3
+    },
+    {
+      "productName": "asd",
+      "productquantity": 1,
+      "productPrice": 132,
+      "id": 4
+    }
+  ]
+}

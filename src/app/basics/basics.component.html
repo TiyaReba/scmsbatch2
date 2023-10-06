@@ -1,0 +1,13 @@
+<h1>Welcome {{myName}}</h1>
+<h3>Welcome {{fname}}</h3>
+<input type="text" [(ngModel)]='fname' > 
+<p *ngIf="hide">This is to try ngif is correct</p>
+<!-- <ol *ngFor="let i of arra">
+    <li [ngStyle]="{color:'red'}">{{i}}</li>
+
+</ol> -->
+<ol >
+    <li *ngFor="let item of arra; let i = index" [ngStyle]="{color:'red'}">
+         {{item}}
+    </li>
+</ol>
